@@ -54,3 +54,6 @@ Start the server
 npm run start
 The server will run on http://localhost:3000.
 
+## 📚 Internship Info
+
+This task was completed as part of my **Backend Development Internship** at **Prodigy InfoTech**.
